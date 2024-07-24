@@ -1,0 +1,13 @@
+.DS_Store
+
+*.Rproj
+*.Rhistory
+.Rproj.user/
+
+libs/
+*.html
+*.png
+*.jpg
+*.pdf
+
+*.csv
